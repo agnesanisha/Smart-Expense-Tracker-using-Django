@@ -1,9 +1,10 @@
-🧾 Project Title
+🧾 Project Title :
 Smart-Expense-Tracker-using-Django
 
 ---
 
-📖 Project Description
+📖 Project Description :
+
 A Django-based web application that helps users track and manage daily expenses. It includes features like user authentication, add/edit/delete expenses, search functionality, category-wise summary, and data visualization using Chart.js. The project also supports dark mode for a better user experience.
 
  ---
@@ -61,9 +62,6 @@ To help users manage personal finances and understand spending habits through vi
 - Advanced analytics dashboard
 
 ---
-
-![Python](https://img.shields.io/badge/Python-Django-green)
-![Frontend](https://img.shields.io/badge/HTML-CSS-JS-orange)
 
 👨‍💻 Author
 Developed by: Agnes Anisha K
